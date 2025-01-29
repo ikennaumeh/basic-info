@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BasicInfo.API.Controllers.InformationController",
+    "Method": "GetInfo",
+    "RelativePath": "api/Information",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
