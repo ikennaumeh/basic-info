@@ -1,4 +1,4 @@
-# Public Info API
+# Basic Info API
 
 This is a simple public API built with **ASP.NET Core Web API** that returns the following information in **JSON format**:
 - Your registered email on the HNG12 Slack workspace.
