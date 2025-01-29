@@ -14,7 +14,7 @@ namespace BasicInfo.API.Controllers
             var info = new InfoResponseDto
             {
                 email = "kennaumeh@gmail.com",
-                date_time = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
+                current_datetime = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
                 github_url = "https://github.com/ikennaumeh/basic-info"
             };
 
